@@ -602,7 +602,3 @@ Thyrsus Enterprises
 如果需要个人电脑、Unix 和互联网如何工作的基础知识，参阅 [Unix 和互联网工作的基本原理](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)。
 
 当你发布软件或补丁时，试着按 [软件发布实践](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html) 操作。
-
-### 鸣谢
-
-伊夫林.米切尔（Evelyn Mitchell）贡献了一些愚蠢问题例子并启发了编写`如何更好地回答问题`这一节，米哈伊尔.罗门迪克（Mikhail Ramendik）贡献了一些特别有价值的建议和改进。
