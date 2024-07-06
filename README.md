@@ -11,32 +11,6 @@ Thyrsus Enterprises
 <respond-auto@linuxmafia.com>
 版权©2001, 2006 Eric S. Raymond, Rick Moen
 
-### 修订历史
-
-```
-修订版 3.9	2013年4月23日	esr
-修正链接
-修订版 3.8	2012年6月19日	esr
-修正链接
-修订版 3.7	2010年12月6日	esr
-对于英语为第二语言人士的有益建议
-修订版 3.7	2010年11月2日	esr
-几种翻译不见了
-修订版 3.6	2008年3月19日	esr
-小更新及新链接
-修订版 3.5	2008年1月2日	esr
-勘误及一些翻译链接
-修订版 3.4	2007年3月24日	esr
-新章节：“关于代码的问题”
-修订版 3.3	2006年9月29日	esr
-增加凯.尼格曼（Kai Niggemann）的一个好建议
-修订版 3.2	2006年1月10日	esr
-加入瑞克.莫恩（Rick Moen）编写的内容
-修订版 3.1	2004年10月28日	esr
-文档“谷歌是你的朋友！”
-修订版 3.0	2004年2月2日	esr
-主要新增在网页论坛应有的礼节
-```
 
 ### [原文：How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 翻译：王刚 <yafrank at 126 dot com >     
